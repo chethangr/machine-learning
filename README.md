@@ -9,14 +9,12 @@
 
 
 Create Conda environment
-'''
-
+```
 conda create -p vienv python==3.7 -y 
-'''
-
+```
 conda activate <path>\vienv 
-'''
-### To install the requirements
+```
+To install the requirements
 
 pip install -r requirements.txt
-'''
+```
